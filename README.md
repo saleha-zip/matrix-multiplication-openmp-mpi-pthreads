@@ -1,3 +1,5 @@
+_Adapted from https://github.com/mperlet/matrix_multiplication_
+
 # Hochleistungsrechnen Assignment 1 
 
 ##### Parallel Matrix Multiplication Using OpenMP, Phtreads, and MPI 
